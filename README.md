@@ -64,8 +64,8 @@ Hands-on with **Azure DevOps CI/CD, Docker, Terraform, and Grafana**, supporting
 ## 🔗 Links
 
 - 🌐 Portfolio: https://myfolio5.netlify.app/
-- 💼 LinkedIn: https://www.linkedin.com/
-- 📄 Resume: (add Google Drive / PDF link here)
+- 💼 LinkedIn: [https://www.linkedin.com/](https://www.linkedin.com/in/nikhilgg5/)
+- 📄 Resume: [(add Google Drive / PDF link here)](https://drive.google.com/file/d/10NDZAFNMPB0vIpIlTA53dmNZr_mCFY-Y/view?usp=drive_link)
 
 ---
 
